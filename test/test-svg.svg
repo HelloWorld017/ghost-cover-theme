@@ -1,0 +1,9 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<script xlink:href="/dist/ghost-cover.bundle.js"></script>
+	<script xlink:href="/test/test.js"></script>
+	<script>
+		//<![CDATA[
+			gcTest("stripe", "default");
+		//]]>
+	</script>
+</svg>
