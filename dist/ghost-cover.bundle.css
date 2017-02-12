@@ -1,2 +1,2 @@
-.home-template .main-header{height:120vh}.home-template .main-header:after{bottom:20vh}.home-template .main-header-content:after{content:"";display:block;height:20vh}.home-template .scroll-down{bottom:65vh}
+.home-template .main-header{height:120vh}.home-template .main-header:after{bottom:20vh}.home-template .main-header-content:after{content:"";display:block;height:20vh}.home-template .scroll-down{bottom:calc(20vh + 45px)}
 /*# sourceMappingURL=ghost-cover.bundle.css.map*/
